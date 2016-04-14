@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'So,. . . what to feed this guy?'
-datePublished: '2016-04-14T18:19:34.762Z'
-dateModified: '2016-04-14T18:18:46.549Z'
+datePublished: '2016-04-14T18:50:57.202Z'
+dateModified: '2016-04-14T18:19:41.901Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-14-so---what-to-feed-this-guy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-14-so---what-to-feed-this-guy.md
-published: true
 url: so---what-to-feed-this-guy/index.html
 _type: Article
 
