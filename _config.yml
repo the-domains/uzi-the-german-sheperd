@@ -1,0 +1,28 @@
+name: Uzi - The German Sheperd
+favicon: null
+layout_spectrum: 0.0893134418874979
+typography_spectrum: 0.4491516170091927
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.0630539353005588
+  lightness: 0.9027557002846152
+  saturation: 0.42816892242990434
+  rhythmicContrast: 0.002384075429290533
+purpose: []
