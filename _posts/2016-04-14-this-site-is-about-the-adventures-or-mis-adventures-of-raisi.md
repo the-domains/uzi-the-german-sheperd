@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "The adventures or mis-adventures of raising and training Uzi, my new German Shepherd\_"
-datePublished: '2016-04-14T15:33:03.954Z'
-dateModified: '2016-04-14T15:32:57.970Z'
+datePublished: '2016-04-14T18:50:30.541Z'
+dateModified: '2016-04-14T18:33:47.180Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-14-this-site-is-about-the-adventures-or-mis-adventures-of-raisi.md
